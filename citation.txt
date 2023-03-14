@@ -1,0 +1,8 @@
+@article{REPO-065,
+    author = "Liu, Xiaofeng and Jin, Linghao and Han, Xu and You, Jane",
+    journal = "Pattern Recognition",
+    pages = "108105",
+    title = "{Mutual Information Regularized Identity-Aware Facial Expression Recognition in Compressed Video}",
+    volume = "119",
+    year = "2021"
+}
